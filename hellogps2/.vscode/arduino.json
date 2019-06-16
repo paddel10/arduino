@@ -1,5 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "sketch": "hellogps2.ino",
-    "port": "COM5"
-}
